@@ -1,5 +1,5 @@
 # Scientific-Calculator
-Scientific Calculator with graphs and tables
+Scientific Calculator with graphs and tables and conversions
 
 Only works on Windows 10
 
